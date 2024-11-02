@@ -25,7 +25,7 @@
             <mxPoint x="360" y="490" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vnGTXKJ_naSzldLJ6PIZ-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="x0moG1NP6D5vR673lPcP-5" target="x0moG1NP6D5vR673lPcP-7">
+        <mxCell id="vnGTXKJ_naSzldLJ6PIZ-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="vnGTXKJ_naSzldLJ6PIZ-7" target="x0moG1NP6D5vR673lPcP-7">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="500" y="415" as="targetPoint" />
           </mxGeometry>
@@ -154,6 +154,15 @@
         </mxCell>
         <mxCell id="vnGTXKJ_naSzldLJ6PIZ-5" value="cadastro de produtos" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vnGTXKJ_naSzldLJ6PIZ-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="x0moG1NP6D5vR673lPcP-5" target="vnGTXKJ_naSzldLJ6PIZ-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="485" y="570" as="targetPoint" />
+            <mxPoint x="330" y="415" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vnGTXKJ_naSzldLJ6PIZ-7" value="request de esqueceu senha e afins" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="410" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
