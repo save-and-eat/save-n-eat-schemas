@@ -92,7 +92,7 @@
           <mxGeometry x="650" y="840" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="x0moG1NP6D5vR673lPcP-36" value="cadastro de usuário" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="460" y="330" width="140" height="40" as="geometry" />
+          <mxGeometry x="440" y="310" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="x0moG1NP6D5vR673lPcP-41" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="x0moG1NP6D5vR673lPcP-5" target="x0moG1NP6D5vR673lPcP-36" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
