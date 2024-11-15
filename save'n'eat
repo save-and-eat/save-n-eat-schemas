@@ -98,7 +98,7 @@
           <mxGeometry x="410" y="570" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="x0moG1NP6D5vR673lPcP-48" value="monorepo contendo&lt;div&gt;microsserviços de integrações em go&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="910" y="190" width="120" height="50" as="geometry" />
+          <mxGeometry x="1110" y="170" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="mDF-DCL29TWYQbdv50TK-2" value="Salvar log da ação no grafana" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="900" y="580" width="120" height="60" as="geometry" />
